@@ -31,7 +31,7 @@
 
 ---
 <div align="center">
- 📊 My GitHub Stats
+📊 My GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sammy200-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=sammy200-ui&theme=dark&hide_border=false)<br/>
 
@@ -54,10 +54,10 @@
 ## 🌟 Featured Projects
 
 <a href="https://github.com/samatrix/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samatrix&repo=project1&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sammy200-ui&repo=project1&theme=tokyonight" />
 </a>
 <a href="https://github.com/samatrix/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samatrix&repo=project2&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sammy200-ui&repo=project2&theme=tokyonight" />
 </a>
 
 </div>
