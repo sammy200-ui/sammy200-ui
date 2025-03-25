@@ -31,7 +31,7 @@
 ---
 ### 📊 **My GitHub Stats**
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samatrix&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samatrix&layout=compact&theme=radical&hide_border=true) |
+![](https://github-readme-stats.vercel.app/api?username=sammy200-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 |:---:|:---:|
 
 ---
