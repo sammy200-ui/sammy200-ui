@@ -26,7 +26,7 @@
 ### 🌐 **Let's Connect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sameer-pawar-a545b0358/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/samatrix) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/sammy200-ui) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawar96sameer@gmail.com)
 
 ---
@@ -49,7 +49,7 @@
 
 ## 📊 Contribution Overview
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy200-ui&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy200-ui&layout=compact&theme=radical&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy200-ui&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy200-ui&layout=compact&theme=dark&hide_border=true) |
 |:---:|:---:|
 
 [![Sameer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sammy200-ui&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
