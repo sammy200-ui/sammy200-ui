@@ -51,7 +51,7 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samatrix&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samatrix&layout=compact&theme=radical&hide_border=true) |
 |:---:|:---:|
 
-[![Sameer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samatrix&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sameer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sammy200-ui&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌟 Featured Projects
 
