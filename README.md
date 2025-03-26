@@ -40,7 +40,7 @@
 🎉 Thanks for Stopping By!!
 
 ### 👀 **Profile View Counter**
-![Profile Views](https://komarev.com/ghpvc/?username=samatrix&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sammy200-ui&color=blue&style=flat-square)
 
 <div align="center">
 
