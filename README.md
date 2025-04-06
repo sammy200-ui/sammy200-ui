@@ -54,9 +54,10 @@
 
 ## 🌟 Featured Projects
 
-<a href="https://github.com/sammy200-ui/Gaming-News">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sammy200-ui&repo=Gaming-News&theme=tokyonight" />
-</a>
+## 🌟 Featured Projects
+
+[![Gaming-News](https://img.shields.io/badge/Gaming--News-Open--Source-blue?style=for-the-badge&logo=github)](https://github.com/mrgear111/Gaming-News)
+> Contributed to a gaming news web platform focused on real-time updates and trending content.
 
 </div>
 
