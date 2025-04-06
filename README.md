@@ -1,19 +1,33 @@
-<!-- Header Banner with Background Gradient -->
+<!-- Glitch Header (SVG style) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0f0c29&height=200&section=header&text=Hey%20there!%20I'm%20Sameer%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&pause=1000&color=21FF00&center=true&vCenter=true&width=800&lines=Welcome+to+The+Samatrix+👾;Coding+in+the+Matrix+🌌;AI+Tinkerer+%7C+Web+Craftsman+%7C+Dream+Builder;Break.+Fix.+Repeat.+🚀" alt="Typing SVG" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ASCII Art Name Reveal -->
+   ____                              _             
+  / ___|  __ _ _ __ ___  ___ _ __ __| | ___ _ __    
+ | |  _  / _` | '__/ __|/ _ \ '__/ _` |/ _ \ '__|   
+ | |_| | (_| | |  \__ \  __/ | | (_| |  __/ |      
+  \____| \__,_|_|  |___/\___|_|  \__,_|\___|_|      
+                    - Sameer Pawar aka Samatrix     
+
+<!-- Cyberpunk Vibe Quote -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Explorer+%7C+AI+Curious+Mind.;Open+Source+Contributor+%26+Problem+Solver.;Breaking+things+to+build+better+ones.;Fuelled+by+curiosity+and+coffee+%E2%98%95.;Building+cool+stuff+one+line+at+a+time!" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/💡%20Philosophy-Build%20fast%2C%20break%20smart-%2300ffcc?style=for-the-badge" />
+</p>
+
+<!-- Hover GIF Style Social Links -->
+<p align="center">
+  <a href="https://github.com/sammy200-ui" target="_blank">
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/>
   </a>
-</p>
-
-<!-- Aesthetic Divider -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammy200-ui&theme=tokyonight&hide_border=true" />
-</p>
+  <a href="https://www.linkedin.com/in/sameer-pawar-a545b0358" target="_blank">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
+  </a>
+  <a href="https://instagram.com/the.samatrix" target="_blank">
+    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="50"/>
+  </a>
+</p>                   
 
 ---
 
