@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm **Sameer** 🚀  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hey+there!+I'm+Sameer.;Web+Dev+and+AI+Enthusiast.;Open+Source+Contributor.;Balancing+laziness+and+building+something+awesome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Explorer+%7C+AI+Curious+Mind.;Open+Source+Contributor+%26+Problem+Solver.;Breaking+things+to+build+better+ones.;Fuelled+by+curiosity+and+coffee+%E2%98%95.;Building+cool+stuff+one+line+at+a+time!)](https://git.io/typing-svg)
 
 ---
 
