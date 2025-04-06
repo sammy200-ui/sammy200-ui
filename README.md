@@ -54,11 +54,8 @@
 
 ## 🌟 Featured Projects
 
-<a href="https://github.com/samatrix/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sammy200-ui&repo=project1&theme=tokyonight" />
-</a>
-<a href="https://github.com/samatrix/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sammy200-ui&repo=project2&theme=tokyonight" />
+<a href="https://github.com/sammy200-ui/Gaming-News">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sammy200-ui&repo=Gaming-News&theme=tokyonight" />
 </a>
 
 </div>
