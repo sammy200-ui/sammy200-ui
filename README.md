@@ -3,14 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&pause=1000&color=21FF00&center=true&vCenter=true&width=800&lines=Welcome+to+The+Samatrix+👾;Coding+in+the+Matrix+🌌;AI+Tinkerer+%7C+Web+Craftsman+%7C+Dream+Builder;Break.+Fix.+Repeat.+🚀" alt="Typing SVG" />
 </p>
 
-<!-- ASCII Art Name Reveal -->
-   ____                              _             
-  / ___|  __ _ _ __ ___  ___ _ __ __| | ___ _ __    
- | |  _  / _` | '__/ __|/ _ \ '__/ _` |/ _ \ '__|   
- | |_| | (_| | |  \__ \  __/ | | (_| |  __/ |      
-  \____| \__,_|_|  |___/\___|_|  \__,_|\___|_|      
-                    - Sameer Pawar aka Samatrix     
-
 <!-- Cyberpunk Vibe Quote -->
 <p align="center">
   <img src="https://img.shields.io/badge/💡%20Philosophy-Build%20fast%2C%20break%20smart-%2300ffcc?style=for-the-badge" />
