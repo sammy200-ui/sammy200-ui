@@ -1,6 +1,19 @@
-# 👋 Hey there! I'm **Sameer** 🚀  
+<!-- Header Banner with Background Gradient -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0f0c29&height=200&section=header&text=Hey%20there!%20I'm%20Sameer%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Explorer+%7C+AI+Curious+Mind.;Open+Source+Contributor+%26+Problem+Solver.;Breaking+things+to+build+better+ones.;Fuelled+by+curiosity+and+coffee+%E2%98%95.;Building+cool+stuff+one+line+at+a+time!)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Explorer+%7C+AI+Curious+Mind.;Open+Source+Contributor+%26+Problem+Solver.;Breaking+things+to+build+better+ones.;Fuelled+by+curiosity+and+coffee+%E2%98%95.;Building+cool+stuff+one+line+at+a+time!" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Aesthetic Divider -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammy200-ui&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
