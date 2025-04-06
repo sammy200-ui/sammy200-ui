@@ -3,11 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hey+there!+I'm+Sameer.;Web+Dev+and+AI+Enthusiast.;Open+Source+Contributor.;Balancing+laziness+and+building+something+awesome!)](https://git.io/typing-svg)
 ---
 
-> Full-stack Dev. AI Explorer. OSS Contributor.
-> Always down to break things (on purpose) just to fix them better 😎
-> Passionate about building fast, minimal, and weirdly cool UIs.
----
-
 ### 🧑‍💻 **About Me**  
 - 🔭 **Passionate About**: Web Development 🌐 | AI 🤖 | Open Source 💻   
 - 🌱 **Currently Learning**: JavaScript | React | Data Structures & Algorithms   
