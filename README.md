@@ -52,12 +52,12 @@
 
 [![Sameer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sammy200-ui&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🌟 Featured Projects
 
 ## 🌟 Featured Projects
 
-[![Gaming-News](https://img.shields.io/badge/Gaming--News-Open--Source-blue?style=for-the-badge&logo=github)](https://github.com/mrgear111/Gaming-News)
-> Contributed to a gaming news web platform focused on real-time updates and trending content.
+### 🎮 [Gaming-News](https://github.com/mrgear111/Gaming-News)
+A sleek and responsive web app for gaming news, featuring trending stories, trailers, and upcoming game releases.  
+📌 *Contributor* – Worked on frontend components and UI enhancements.
 
 </div>
 
