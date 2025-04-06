@@ -1,17 +1,8 @@
-<!-- Terminal Style Intro -->
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=booting+Samatrix.exe...;loading+developer+profile...;access+granted+✅;Welcome+to+Sameer's+terminal+💻" />
+# 👋 Hey there! I'm **Sameer** 🚀  
 
-  <br />
-
-  <img src="https://user-images.githubusercontent.com/122083267/236680733-6575ae6e-0d50-4388-8e56-fd89a20fe89b.gif" width="80" alt="Terminal cursor" />
-
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hey+there!+I'm+Sameer.;Web+Dev+and+AI+Enthusiast.;Open+Source+Contributor.;Balancing+laziness+and+building+something+awesome!)](https://git.io/typing-svg)
 ---
 
-```bash
 > Full-stack Dev. AI Explorer. OSS Contributor.
 > Always down to break things (on purpose) just to fix them better 😎
 > Passionate about building fast, minimal, and weirdly cool UIs.
