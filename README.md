@@ -11,8 +11,6 @@
 
 ---
 
-### 👨‍💻 whoami
-
 ```bash
 > Full-stack Dev. AI Explorer. OSS Contributor.
 > Always down to break things (on purpose) just to fix them better 😎
