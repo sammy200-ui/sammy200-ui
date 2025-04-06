@@ -1,26 +1,22 @@
-<!-- Glitch Header (SVG style) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&pause=1000&color=21FF00&center=true&vCenter=true&width=800&lines=Welcome+to+The+Samatrix+👾;Coding+in+the+Matrix+🌌;AI+Tinkerer+%7C+Web+Craftsman+%7C+Dream+Builder;Break.+Fix.+Repeat.+🚀" alt="Typing SVG" />
-</p>
+<!-- Terminal Style Intro -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=booting+Samatrix.exe...;loading+developer+profile...;access+granted+✅;Welcome+to+Sameer's+terminal+💻" />
 
-<!-- Cyberpunk Vibe Quote -->
-<p align="center">
-  <img src="https://img.shields.io/badge/💡%20Philosophy-Build%20fast%2C%20break%20smart-%2300ffcc?style=for-the-badge" />
-</p>
+  <br />
 
-<!-- Hover GIF Style Social Links -->
-<p align="center">
-  <a href="https://github.com/sammy200-ui" target="_blank">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sameer-pawar-a545b0358" target="_blank">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
-  </a>
-  <a href="https://instagram.com/the.samatrix" target="_blank">
-    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="50"/>
-  </a>
-</p>                   
+  <img src="https://user-images.githubusercontent.com/122083267/236680733-6575ae6e-0d50-4388-8e56-fd89a20fe89b.gif" width="80" alt="Terminal cursor" />
 
+</div>
+
+---
+
+### 👨‍💻 whoami
+
+```bash
+> Full-stack Dev. AI Explorer. OSS Contributor.
+> Always down to break things (on purpose) just to fix them better 😎
+> Passionate about building fast, minimal, and weirdly cool UIs.
 ---
 
 ### 🧑‍💻 **About Me**  
