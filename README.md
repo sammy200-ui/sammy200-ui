@@ -10,6 +10,9 @@
 </div>
 
 ---
+<details>
+<summary><code>🌙 Night Mode Detected... Click to Run joke.exe</code></summary>
+
 
 ### 🧑‍💻 **About Me**  
 - 🔭 **Passionate About**: Web Development 🌐 | AI 🤖 | Open Source 💻   
