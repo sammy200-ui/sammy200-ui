@@ -8,14 +8,7 @@
   <img src="https://user-images.githubusercontent.com/122083267/236680733-6575ae6e-0d50-4388-8e56-fd89a20fe89b.gif" width="80" alt="Terminal cursor" />
 
 </div>
-
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00FF41" />
-  <br/>
-  <code>System status: 100% weird, 100% functional</code>
-</p>
-
 
 ### 🧑‍💻 **About Me**  
 - 🔭 **Passionate About**: Web Development 🌐 | AI 🤖 | Open Source 💻   
