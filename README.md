@@ -10,8 +10,11 @@
 </div>
 
 ---
-<details>
-<summary><code>🌙 Night Mode Detected... Click to Run joke.exe</code></summary>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00FF41" />
+  <br/>
+  <code>System status: 100% weird, 100% functional</code>
+</p>
 
 
 ### 🧑‍💻 **About Me**  
