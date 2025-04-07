@@ -9,6 +9,9 @@
 
 </div>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Matrix Rain Animation"/>
+</p>
 
 
 ### 🧑‍💻 **About Me**  
