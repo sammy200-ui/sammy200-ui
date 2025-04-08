@@ -16,7 +16,7 @@
 - 🎯 **Fun Fact**: I balance laziness ☕ with building something **awesome** 🚀.   
 
 ---
-
+<div align="center">
 ### 🚀 **Skills & Tools**  
 
 | 💻 Languages | 🛠️ Frameworks & Libraries | ⚙️ Tools |
@@ -26,6 +26,7 @@
 | ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
+</div>
 ---
 
 ### 🌐 **Let's Connect**  
