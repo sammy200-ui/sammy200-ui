@@ -9,7 +9,7 @@
 
 </div>
 
-🧑‍💻 **About Me**
+🧑‍💻 About Me
 - 🔭 **Passionate About**: Web Development 🌐 | AI 🤖 | Open Source 💻   
 - 🌱 **Currently Learning**: JavaScript | React | Data Structures & Algorithms   
 - 💡 **Looking to Collaborate On**: Open-source projects, hackathons, and innovation challenges.  
