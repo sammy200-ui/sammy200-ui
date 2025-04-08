@@ -9,14 +9,14 @@
 
 </div>
 
-### 🧑‍💻 **About Me**  
+🧑‍💻 **About Me**
 - 🔭 **Passionate About**: Web Development 🌐 | AI 🤖 | Open Source 💻   
 - 🌱 **Currently Learning**: JavaScript | React | Data Structures & Algorithms   
 - 💡 **Looking to Collaborate On**: Open-source projects, hackathons, and innovation challenges.  
 - 🎯 **Fun Fact**: I balance laziness ☕ with building something **awesome** 🚀.   
 
----
 <div align="center">
+  ---
 ### 🚀 **Skills & Tools**  
 
 | 💻 Languages | 🛠️ Frameworks & Libraries | ⚙️ Tools |
