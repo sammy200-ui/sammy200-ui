@@ -3,10 +3,6 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=booting+Samatrix.exe...;loading+developer+profile...;access+granted+✅;Welcome+to+Sameer's+terminal+💻" />
 
-  <br />
-
-  <img src="https://media.giphy.com/media/l41JRsph73VAPwtq0/giphy.gif" width="80" alt="Animated terminal cursor" />
-
 </div>
 
 🧑‍💻 **About Me**
