@@ -1,7 +1,7 @@
 <!-- Option 3: Minimal (safe) -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF41&width=600&lines=Initializing+Samatrix...;Loading+projects+%26+experiments...;System+Ready+✅)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF41&width=600&lines=Welcome+to+Samatrix...;Loading+projects+%26+experiments...;System+Ready+✅)](https://git.io/typing-svg)
 
 <br/>
 
