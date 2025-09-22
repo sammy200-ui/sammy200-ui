@@ -1,3 +1,13 @@
+<!-- Option 1: Samatrix Capsule (Green Matrix) -->
+<div align="center">
+
+[![Capsule](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samatrix&fontSize=56&animation=fadeIn)](https://github.com/sammy200-ui)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF41&width=600&lines=booting+Samatrix.exe...;loading+developer+profile...;Web+Dev+·+AI+·+Game+Dev;Coffee+→+Code)](https://git.io/typing-svg)
+
+</div>
 
 
 
