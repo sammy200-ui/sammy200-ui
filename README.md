@@ -1,13 +1,13 @@
 <!-- Terminal Style Intro -->
-<!-- Terminal Style Intro -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Wake+up%2C+Sameer...;The+Matrix+has+you...;Access+Granted+✅;Welcome+to+Samatrix+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=C%3A%5CSameer%3E+run+developer.exe;Initializing...;Loading+projects...;Access+Granted+✅" />
 
   <br/>
-  <img src="https://i.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="80" alt="matrix cursor" />
+  <img src="https://media.tenor.com/J3sHxVxuG9oAAAAi/terminal-computer.gif" width="120" alt="old terminal" />
 
 </div>
+
 
 🧑‍💻 **About Me**
 - 🔭 **Passionate About**: Web Development 🌐 | AI 🤖 | Open Source 💻   
