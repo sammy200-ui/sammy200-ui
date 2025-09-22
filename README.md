@@ -5,9 +5,6 @@
 
 <br/>
 
-**Sameer Pawar** • Web Dev · AI · Game Dev  
-`JavaScript • React • Express • Prisma • Firebase • Supabase`
-
 </div>
 
 
