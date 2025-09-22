@@ -1,8 +1,3 @@
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+Samatrix...;Loading+skills+and+tools...;System+Ready+✅" />
-
-</div>
 
 
 
