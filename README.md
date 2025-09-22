@@ -5,7 +5,7 @@
 
   <br />
 
-  <img src="https://user-images.githubusercontent.com/122083267/236680733-6575ae6e-0d50-4388-8e56-fd89a20fe89b.gif" width="80" alt="Terminal cursor" />
+  <img src="https://media.giphy.com/media/l41JRsph73VAPwtq0/giphy.gif" width="80" alt="Animated terminal cursor" />
 
 </div>
 
