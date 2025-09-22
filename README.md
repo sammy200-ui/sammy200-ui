@@ -1,11 +1,9 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Rebooting+System...;Loading+Samatrix+Core+💾;Neon+Access+✅" />
-
-  <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E3djR5N2o2aDdqM2E0bWl4aXNvcjN6bTFpcWJsOXprc2cxbDd2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="cyberpunk hacker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+Samatrix...;Loading+skills+and+tools...;System+Ready+✅" />
 
 </div>
+
 
 
 🧑‍💻 **About Me**
