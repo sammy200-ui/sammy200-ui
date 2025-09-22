@@ -1,13 +1,15 @@
 <!-- Terminal Style Intro -->
+<!-- Terminal Style Intro -->
 <div align="center">
-  
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=booting+Samatrix.exe...;loading+developer+profile...;access+granted+✅;Welcome+to+Sameer's+terminal+💻" />
 
   <br />
 
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Vxd3M5dGZ2OXl2c2E1MXJ1anVpOXVwdG5pd2o3aXh6YWU1bThtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFgnvY7sSJKWbVvQp5/giphy.gif" width="80" alt="Terminal cursor" />
+  <img src="https://i.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="80" alt="Terminal cursor" />
 
 </div>
+
 
 🧑‍💻 **About Me**
 - 🔭 **Passionate About**: Web Development 🌐 | AI 🤖 | Open Source 💻   
