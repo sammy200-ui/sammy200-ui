@@ -16,36 +16,57 @@
 - 🎯 **Fun Fact**: I balance laziness ☕ with building something **awesome** 🚀.   
  ---
 <div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
 
-## 🚀 Skills & Tools  
+    <!-- Languages -->
+    <tr>
+      <td align="center" style="border: none; padding: 12px;">
+        <h3>💻 Code Arsenal</h3>
+        <p>Languages that fuel my craft.</p>
+        <div>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=2D2D2D" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2D2D" alt="HTML/CSS"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=2D2D2D" alt="Python"/>
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white&labelColor=2D2D2D" alt="MySQL"/>
+        </div>
+      </td>
+    </tr>
 
-### 💻 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+    <!-- Frameworks -->
+    <tr>
+      <td align="center" style="border: none; padding: 12px;">
+        <h3>🛠️ Framework Force</h3>
+        <p>Stacks that shape my projects.</p>
+        <div>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=2D2D2D" alt="React"/>
+          <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=2D2D2D" alt="React Native"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=2D2D2D" alt="Node.js"/>
+          <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white&labelColor=2D2D2D" alt="Express.js"/>
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=2D2D2D" alt="Prisma"/>
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=2D2D2D" alt="TailwindCSS"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=2D2D2D" alt="Firebase"/>
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=2D2D2D" alt="Supabase"/>
+        </div>
+      </td>
+    </tr>
 
----
+    <!-- Tools -->
+    <tr>
+      <td align="center" style="border: none; padding: 12px;">
+        <h3>⚙️ Terminal Tools</h3>
+        <p>Gear that keeps the code flowing.</p>
+        <div>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=2D2D2D" alt="Git"/>
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=2D2D2D" alt="GitHub"/>
+          <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=2D2D2D" alt="VS Code"/>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=2D2D2D" alt="Linux"/>
+        </div>
+      </td>
+    </tr>
 
-### 🛠️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)  
-![React Native](https://img.shields.io/badge/React%20Native-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=firebase)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)  
-
----
-
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
+  </table>
 </div>
+
 
 
 
