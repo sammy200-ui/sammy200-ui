@@ -80,14 +80,6 @@
 [![Sameer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sammy200-ui&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 🌟 Featured Projects
-
-### 🎮 [Gaming-News](https://github.com/mrgear111/Gaming-News)
-A sleek and responsive web app for gaming news, featuring trending stories, trailers, and upcoming game releases.  
-📌 *Contributor* – Worked on frontend components and UI enhancements.
-
-</div>
-
 ---
 
 <div align="center">
