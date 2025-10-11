@@ -6,6 +6,9 @@
 
 </div>
 
+[![An image of @sammy200ui's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sammy200ui)](https://holopin.io/@sammy200ui)
+
+
 🧑‍💻 **About Me**
 - 🔭 **Passionate About**: Web Development 🌐 | AI 🤖 | Open Source 💻   
 - 🌱 **Currently Learning**: JavaScript | React | Data Structures & Algorithms   
