@@ -53,13 +53,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/the.samatrix)  
 
 ---
-<div align="center">
-📊 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-
-![](https://github-readme-stats.vercel.app/api?username=sammy200-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=sammy200-ui&theme=dark&hide_border=false)<br/>
-
----
-</div>
 
 ## 🏆 Achievements
 
@@ -68,6 +61,14 @@
     <img src="https://holopin.me/sammy200ui" alt="@sammy200ui's Holopin Badges" />
   </a>
 </p>
+
+<div align="center">
+## 📊 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
+
+![](https://github-readme-stats.vercel.app/api?username=sammy200-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=sammy200-ui&theme=dark&hide_border=false)<br/>
+
+---
+</div>
 
 
 
