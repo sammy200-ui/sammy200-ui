@@ -63,16 +63,13 @@
 </p>
 
 <div align="center">
-## 📊 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
+ 📊 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
 ![](https://github-readme-stats.vercel.app/api?username=sammy200-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=sammy200-ui&theme=dark&hide_border=false)<br/>
 
 ---
 </div>
 
-
-
-🎉 Thanks for Stopping By!!
 
 ### 👀 **Profile View Counter**
 ![Profile Views](https://komarev.com/ghpvc/?username=sammy200-ui&color=blue&style=flat-square)
@@ -88,6 +85,8 @@
 
 
 ---
+
+🎉 Thanks for Stopping By!!
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
