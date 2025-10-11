@@ -61,7 +61,14 @@
 ---
 </div>
 
-[![An image of @sammy200ui's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sammy200ui)](https://holopin.io/@sammy200ui)
+## 🏆 Achievements
+
+<p align="center">
+  <a href="https://holopin.io/@sammy200ui">
+    <img src="https://holopin.me/sammy200ui" alt="@sammy200ui's Holopin Badges" />
+  </a>
+</p>
+
 
 
 🎉 Thanks for Stopping By!!
