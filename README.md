@@ -11,7 +11,7 @@
 - 🌱 **Currently Learning**: JavaScript | React | Data Structures & Algorithms   
 - 💡 **Looking to Collaborate On**: Open-source projects, hackathons, and innovation challenges.  
 - 🎯 **Fun Fact**: I balance laziness ☕ with building something **awesome** 🚀.   
- ---
+
 ---
 ### 🛠️ Tech Stack & Tools
 
