@@ -75,7 +75,6 @@
 
 <div align="center">
 
-## 📊 Contribution Overview
 
 ## 📊 Contribution Overview
 
