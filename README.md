@@ -65,7 +65,7 @@
 <div align="center">
  📊 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
-![](https://github-readme-stats.vercel.app/api?username=sammy200-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=sammy200-ui&theme=dark&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy200-ui&theme=gotham&show_icons=true&hide_border=true&count_private=true)<br/>
 
 ---
 </div>
