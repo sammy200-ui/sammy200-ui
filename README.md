@@ -98,11 +98,26 @@
 
 ---
 
-### 👀 **Profile View Counter**
-![Profile Views](https://komarev.com/ghpvc/?username=sammy200-ui&color=blue&style=flat-square)
-
-🎉 Thanks for Stopping By!!
+### 👀 Profile View Counter  
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sammy200-ui&label=PROFILE+VIEWS&color=0D1117&labelColor=0A66C2&style=for-the-badge)
+
 </div>
+
+---
+
+<div align="center">
+
+🎉 Thanks for stopping by! <br/>
+🖤 Crafted with code & curiosity 🦇  
+
+<br/>
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/uses-html.svg" />
+<img src="https://forthebadge.com/images/badges/uses-js.svg" />
+
+</div>
+
