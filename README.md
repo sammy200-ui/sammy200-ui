@@ -8,9 +8,6 @@
 
 ## 🧑‍💻 About Me
 
-> _"Talk is cheap. Show me the code."_ — Linus Torvalds  
-
-💡 **Who I Am:** A developer who loves building things that actually matter — from intuitive web apps to AI experiments.  
 
 - 🔭 **Passionate About:** Web Development 🌐 | AI 🤖 | Open Source 💻  
 - 🌱 **Currently Learning:** JavaScript ⚡ | React ⚛️ | Data Structures & Algorithms 📘  
