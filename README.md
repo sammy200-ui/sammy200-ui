@@ -71,9 +71,6 @@
 </div>
 
 
-### 👀 **Profile View Counter**
-![Profile Views](https://komarev.com/ghpvc/?username=sammy200-ui&color=blue&style=flat-square)
-
 <div align="center">
 
 ## 📊 Contribution Overview
@@ -84,7 +81,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sammy200-ui&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+
 ---
+
+### 👀 **Profile View Counter**
+![Profile Views](https://komarev.com/ghpvc/?username=sammy200-ui&color=blue&style=flat-square)
 
 🎉 Thanks for Stopping By!!
 
