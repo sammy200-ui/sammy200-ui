@@ -78,7 +78,7 @@
 
 ## 📊 Contribution Overview
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy200-ui&show_icons=true&theme=gotham&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy200-ui&layout=compact&theme=gotham&hide_border=false) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy200-ui&show_icons=true&theme=gotham&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy200-ui&layout=compact&theme=gotham&hide_border=true) |
 |:---:|:---:|
 
 
