@@ -110,14 +110,9 @@
 
 <div align="center">
 
-🎉 Thanks for stopping by! <br/>
-🖤 Crafted with code & curiosity 🦇  
+🎉 Thanks for stopping by! <br/> 
 
 <br/>
-
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/uses-html.svg" />
-<img src="https://forthebadge.com/images/badges/uses-js.svg" />
-
 </div>
 
