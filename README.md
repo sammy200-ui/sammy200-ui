@@ -67,13 +67,15 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 
 <p align="center">
   <a href="https://holopin.io/@sammy200ui">
-    <img src="https://holopin.me/sammy200ui" alt="@sammy200ui's Holopin Badges" />
+    <img src="https://holopin.me/sammy200ui" alt="@sammy200ui's Holopin Badges" 
+         style="border-radius: 10px; box-shadow: 0 0 20px #0a0a0a;"/>
   </a>
 </p>
+
 
 <div align="center">
 
