@@ -76,8 +76,11 @@
 </p>
 
 <div align="center">
- 📊 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
+## 📊 Contribution Overview
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy200-ui&show_icons=true&theme=gotham&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy200-ui&layout=compact&theme=gotham&hide_border=true) |
+|:---:|:---:|
 
 ![](https://nirzak-streak-stats.vercel.app/?user=sammy200-ui&theme=gotham&hide_border=false)
 
@@ -89,10 +92,7 @@
 <div align="center">
 
 
-## 📊 Contribution Overview
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy200-ui&show_icons=true&theme=gotham&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy200-ui&layout=compact&theme=gotham&hide_border=true) |
-|:---:|:---:|
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sammy200-ui&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
