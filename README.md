@@ -1,10 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FFFF&background=0D111700&multiline=true&width=600&lines=Hello%2C+I'm+Sameer.;Welcome+to+my+Workspace.;Exploring+code%2C+design%2C+and+ideas...;Let's+build+something+amazing!)](https://git.io/typing-svg)
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sameer.;Welcome+to+my+space.;Designing%2C+coding%2C+and+creating.;Let's+build+something+epic!"/>
 
 </div>
+
 
 
 
