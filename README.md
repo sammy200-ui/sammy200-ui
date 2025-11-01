@@ -1,10 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF41&background=0D111700&width=600&lines=Hello%2C+I'm+Sameer.;Welcome+to+my+Workspace.;Exploring+code%2C+design%2C+and+ideas...;Let's+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FFFF&background=0D111700&multiline=true&width=600&lines=Hello%2C+I'm+Sameer.;Welcome+to+my+Workspace.;Exploring+code%2C+design%2C+and+ideas...;Let's+build+something+amazing!)](https://git.io/typing-svg)
 
 <br/>
 
 </div>
+
 
 
 ## 🧑‍💻 About Me
