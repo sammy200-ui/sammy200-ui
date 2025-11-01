@@ -82,7 +82,7 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy200-ui&show_icons=true&theme=gotham&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy200-ui&layout=compact&theme=gotham&hide_border=true) |
 |:---:|:---:|
 
-![](https://nirzak-streak-stats.vercel.app/?user=sammy200-ui&theme=gotham&hide&area=true&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=sammy200-ui&theme=gotham&hide_border=false)
 
 
 ---
