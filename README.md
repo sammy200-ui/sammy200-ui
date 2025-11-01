@@ -4,6 +4,36 @@
 
 </div>
 
+---
+
+<div align="center">
+
+<!-- Gotham themed banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1014,100:2aa889&height=200&section=header&text=SAMEER%20PAWAR&fontSize=60&fontColor=99d1ce&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=18"/>
+
+<!-- Profile badges with Gotham theme -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-2aa889?style=for-the-badge&labelColor=0c1014&logo=web&logoColor=599cab" />
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-599cab?style=for-the-badge&labelColor=0c1014&logo=statuspage&logoColor=99d1ce" />
+  <img src="https://img.shields.io/badge/Vibe-Always%20Learning-99d1ce?style=for-the-badge&labelColor=0c1014&logo=htmx&logoColor=2aa889" />
+</p>
+
+<!-- Quote or tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Code+is+poetry+written+in+logic;Building+tomorrow's+solutions+today;One+commit+at+a+time+🚀" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social proof badges -->
+<p>
+  <a href="https://github.com/sammy200-ui?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sammy200-ui?color=2aa889&labelColor=0c1014&style=for-the-badge&logo=person-add&label=Follow&logoColor=99d1ce"/></a>
+  <a href="https://github.com/sammy200-ui?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sammy200-ui?color=599cab&labelColor=0c1014&style=for-the-badge&logo=star&logoColor=99d1ce"/></a>
+  <a href="https://github.com/sammy200-ui">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=sammy200-ui&style=for-the-badge&color=2aa889&labelColor=0c1014&label=VIEWS"/></a>
+</p>
+
+</div>
 
 
 
