@@ -111,11 +111,4 @@
 
 ---
 
-<div align="center">
-
-🎉 Thanks for stopping by! <br/> 
-
-<br/>
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-</div>
-
+ 
