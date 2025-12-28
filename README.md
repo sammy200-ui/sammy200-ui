@@ -6,7 +6,7 @@
 
 ## About Me
 
-I like building things and learning as I go. But still Googling things, just faster now. I'm usually contributing to open source. 
+I like building things and learning as I go. But still Googling things, just faster now. I'm usually contributing to open source and if I’m not responding, I’m probably AFK or in a match.
 
 
 ---
