@@ -6,9 +6,8 @@
 
 ## About Me
 
-I'm a full-stack developer who enjoys building web and mobile applications. I work with modern JavaScript frameworks like React and Next.js for the frontend, and Node.js with Express for backend development. I'm comfortable working with both SQL and NoSQL databases, and I've integrated various authentication systems and cloud services into my projects.
+I like building things and learning as I go. But still Googling things, just faster now. I'm usually contributing to open source. 
 
-I have experience with data analysis using Python and Pandas, and I'm always exploring new technologies and best practices to improve my craft. When I'm not coding, I'm usually contributing to open source.
 
 ---
 
