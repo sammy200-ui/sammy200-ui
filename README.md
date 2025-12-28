@@ -8,9 +8,7 @@
 
 I'm a full-stack developer who enjoys building web and mobile applications. I work with modern JavaScript frameworks like React and Next.js for the frontend, and Node.js with Express for backend development. I'm comfortable working with both SQL and NoSQL databases, and I've integrated various authentication systems and cloud services into my projects.
 
-I have experience with data analysis using Python and Pandas, and I'm always exploring new technologies and best practices to improve my craft. When I'm not coding, I'm usually working on side projects or contributing to open source.
-
-Feel free to reach out if you want to collaborate on something interesting or just chat about development.  
+I have experience with data analysis using Python and Pandas, and I'm always exploring new technologies and best practices to improve my craft. When I'm not coding, I'm usually contributing to open source.
 
 ---
 
@@ -38,7 +36,6 @@ Feel free to reach out if you want to collaborate on something interesting or ju
 ![React Native](https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
 
@@ -48,7 +45,6 @@ Feel free to reach out if you want to collaborate on something interesting or ju
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-0D1117?style=for-the-badge&logo=oauth&logoColor=EB5424)
 
 </div>
