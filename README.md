@@ -4,30 +4,33 @@
 
 </div>
 
-## 🧑‍💻 About Me
+## About Me
 
+I'm a full-stack developer who enjoys building web and mobile applications. I work with modern JavaScript frameworks like React and Next.js for the frontend, and Node.js with Express for backend development. I'm comfortable working with both SQL and NoSQL databases, and I've integrated various authentication systems and cloud services into my projects.
 
-- 🔭 **Passionate About:** Web Development 🌐 | AI 🤖 | Open Source 💻  
-- 🌱 **Currently Learning:** JavaScript ⚡ | React ⚛️ | Data Structures & Algorithms 📘  
-- 💬 **Ask Me About:** Frontend Dev, APIs, and making side projects shine ✨  
-- 🎯 **Fun Fact:** Balancing laziness ☕ with building something **awesome** 🚀  
+I have experience with data analysis using Python and Pandas, and I'm always exploring new technologies and best practices to improve my craft. When I'm not coding, I'm usually working on side projects or contributing to open source.
+
+Feel free to reach out if you want to collaborate on something interesting or just chat about development.  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## Tech Stack & Tools  
 
 <div align="center">
 
-### 💻 Languages  
+### Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00A6FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 ---
 
-### 🚀 Frameworks & Libraries  
+### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
@@ -37,14 +40,16 @@
 ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
 
 ---
 
-### ⚙️ Tools & Platforms  
+### Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-0D1117?style=for-the-badge&logo=oauth&logoColor=EB5424)
 
 </div>
 
@@ -54,7 +59,7 @@
 
 
 
-### 🌐 Let's Connect  
+### Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sameer-pawar-a545b0358/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pawar96sameer@gmail.com)
@@ -70,7 +75,7 @@
 
 <div align="center">
 
-## 📊 Contribution Overview
+## Contribution Overview
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy200-ui&show_icons=true&theme=gotham&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy200-ui&layout=compact&theme=gotham&hide_border=true) |
 |:---:|:---:|
@@ -94,7 +99,7 @@
 
 ---
 
-### 👀 Profile View Counter  
+### Profile View Counter  
 
 <div align="center">
 
