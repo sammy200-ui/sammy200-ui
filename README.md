@@ -6,7 +6,8 @@
 
 ## About Me
 
-I like building things and learning as I go. But still Googling things, just faster now. I'm usually contributing to open source and if I’m not responding, I’m probably AFK or in a match.
+I like building things and learning as I go. But still Googling things, just faster now.
+I'm usually contributing to open source and if I’m not responding, I’m probably AFK or in a match.
 
 ---
 
@@ -66,7 +67,7 @@ I like building things and learning as I go. But still Googling things, just fas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sameer-pawar-a545b0358/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pawar96sameer@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/the.samatrix)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/sammy200-ui)
+
 
 </div>
 
