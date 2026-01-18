@@ -13,7 +13,7 @@ I like building things and learning as I go. But still Googling things, just fas
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1.  No activity yet — but trust me, something's cooking!
+1. 🗣 Commented on [#2551](https://github.com/gofr-dev/gofr/issues/2551#issuecomment-3765436622) in [gofr-dev/gofr](https://github.com/gofr-dev/gofr)
 <!--END_SECTION:activity-->
 
 ---
