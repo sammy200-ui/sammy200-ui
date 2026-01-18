@@ -2,8 +2,8 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch: # Allows manual trigger from GitHub Actions tab
 
 permissions:
@@ -25,3 +25,4 @@ jobs:
         with:
           COMMIT_MSG: "Update README with recent activity"
           MAX_LINES: 5
+          GH_USERNAME: sammy200-ui
