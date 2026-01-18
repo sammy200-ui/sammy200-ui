@@ -8,6 +8,13 @@
 
 I like building things and learning as I go. But still Googling things, just faster now. I'm usually contributing to open source and if I’m not responding, I’m probably AFK or in a match.
 
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+1.  No activity yet — but trust me, something's cooking!
+<!--END_SECTION:activity-->
 
 ---
 
