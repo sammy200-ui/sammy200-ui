@@ -94,9 +94,6 @@ I like building things and learning as I go. But still Googling things, just fas
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sammy200-ui&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 ---
 
