@@ -13,7 +13,7 @@ I like building things and learning as I go. But still Googling things, just fas
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4939](https://github.com/asyncapi/website/pull/4939#issuecomment-3768931788) in [asyncapi/website](https://github.com/asyncapi/website)
+1. 🗣 Commented on [#4981](https://github.com/asyncapi/website/issues/4981#issuecomment-3770848488) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
