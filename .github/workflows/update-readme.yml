@@ -26,3 +26,5 @@ jobs:
           COMMIT_MSG: "Update README with recent activity"
           MAX_LINES: 5
           GH_USERNAME: sammy200-ui
+          COMMIT_NAME: sammy200-ui
+          COMMIT_EMAIL: sammy200-ui@users.noreply.github.com
