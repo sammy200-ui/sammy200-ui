@@ -14,7 +14,7 @@ I'm usually contributing to open source and if I’m not responding, I’m proba
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2847](https://github.com/gofr-dev/gofr/issues/2847#issuecomment-3771292231) in [gofr-dev/gofr](https://github.com/gofr-dev/gofr)
+1. 🗣 Commented on [#4983](https://github.com/asyncapi/website/issues/4983#issuecomment-3773889510) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
