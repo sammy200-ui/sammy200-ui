@@ -27,4 +27,4 @@ jobs:
           MAX_LINES: 5
           GH_USERNAME: sammy200-ui
           COMMIT_NAME: sammy200-ui
-          COMMIT_EMAIL: sammy200-ui@users.noreply.github.com
+          COMMIT_EMAIL: 187490777+sammy200-ui@users.noreply.github.com
