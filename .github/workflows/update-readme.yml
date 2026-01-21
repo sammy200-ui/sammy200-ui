@@ -18,13 +18,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README with GitHub Activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          COMMIT_MSG: "Update README with recent activity"
-          MAX_LINES: 5
-          GH_USERNAME: sammy200-ui
-          COMMIT_NAME: sammy200-ui
-          COMMIT_EMAIL: 187490777+sammy200-ui@users.noreply.github.com
+          node-version: '20'
+
+      - name: Update README with GitHub Activity
+        run: node .github/scripts/update-activity.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "sammy200-ui"
+          git config --local user.email "187490777+sammy200-ui@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "Update README with recent activity" && git push)
