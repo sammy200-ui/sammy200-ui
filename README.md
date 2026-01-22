@@ -14,11 +14,11 @@ I'm usually contributing to open source and if I’m not responding, I’m proba
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Commented on [#2223](https://github.com/asyncapi/community/issues/2223#issuecomment-3778452724) in [asyncapi/community](https://github.com/asyncapi/community)
-2. Commented on [#4936](https://github.com/asyncapi/website/issues/4936#issuecomment-3778232961) in [asyncapi/website](https://github.com/asyncapi/website)
-3. Commented on [#4983](https://github.com/asyncapi/website/issues/4983#issuecomment-3778221511) in [asyncapi/website](https://github.com/asyncapi/website)
-4. Commented on [#4983](https://github.com/asyncapi/website/issues/4983#issuecomment-3773889510) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Commented on [#4889](https://github.com/asyncapi/website/issues/4889#issuecomment-3773858416) in [asyncapi/website](https://github.com/asyncapi/website)
+1. Commented on [#4983](https://github.com/asyncapi/website/issues/4983#issuecomment-3780718300) in [asyncapi/website](https://github.com/asyncapi/website)
+2. Commented on [#2223](https://github.com/asyncapi/community/issues/2223#issuecomment-3778452724) in [asyncapi/community](https://github.com/asyncapi/community)
+3. Commented on [#4936](https://github.com/asyncapi/website/issues/4936#issuecomment-3778232961) in [asyncapi/website](https://github.com/asyncapi/website)
+4. Commented on [#4983](https://github.com/asyncapi/website/issues/4983#issuecomment-3778221511) in [asyncapi/website](https://github.com/asyncapi/website)
+5. Commented on [#4983](https://github.com/asyncapi/website/issues/4983#issuecomment-3773889510) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
