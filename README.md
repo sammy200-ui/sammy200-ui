@@ -14,11 +14,11 @@ I'm usually contributing to open source and if I’m not responding, I’m proba
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Reviewed [#4997](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
-2. Commented on PR [#4997](https://github.com/asyncapi/website/pull/4997#discussion_r2717554466) in [asyncapi/website](https://github.com/asyncapi/website)
-3. Commented on [#4997](https://github.com/asyncapi/website/pull/4997#issuecomment-3785188689) in [asyncapi/website](https://github.com/asyncapi/website)
-4. Opened PR [#4997](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Reviewed [#4988](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
+1. Commented on [#5002](https://github.com/asyncapi/website/issues/5002#issuecomment-3789715281) in [asyncapi/website](https://github.com/asyncapi/website)
+2. Reviewed [#4997](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
+3. Commented on PR [#4997](https://github.com/asyncapi/website/pull/4997#discussion_r2717554466) in [asyncapi/website](https://github.com/asyncapi/website)
+4. Commented on [#4997](https://github.com/asyncapi/website/pull/4997#issuecomment-3785188689) in [asyncapi/website](https://github.com/asyncapi/website)
+5. Opened PR [#4997](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
