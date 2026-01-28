@@ -99,9 +99,6 @@ I'm usually contributing to open source and if I’m not responding, I’m proba
 
 
 
-
----
-
 ### Profile View Counter  
 
 <div align="center">
