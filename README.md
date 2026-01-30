@@ -6,10 +6,14 @@
 
 ## About Me
 
-I like building things and learning as I go. But still Googling things, just faster now.
-I'm usually contributing to open source and if I’m not responding, I’m probably AFK or in a match.
+I like building things and learning as I go — still Googling, just faster now.  
+I spend a lot of time contributing to open source; if I’m not responding, I’m probably AFK.  
+I watch anime and read manga more than I’d like to admit — you can find me on [MyAnimeList](https://myanimelist.net/profile/_MASTER_ACEMASK_).
+
+
 
 ---
+
 
 ## Recent Activity
 
