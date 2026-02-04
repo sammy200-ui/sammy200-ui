@@ -22,7 +22,7 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 2. Commented on [#5077](https://github.com/asyncapi/website/issues/5077#issuecomment-3845556850) in [asyncapi/website](https://github.com/asyncapi/website)
 3. Forked [onlyaditya/sesd_workshop](https://github.com/onlyaditya/sesd_workshop)
 4. Commented on [#5068](https://github.com/asyncapi/website/issues/5068#issuecomment-3835453390) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Commented on [#5014](https://github.com/asyncapi/website/issues/5014#issuecomment-3830984105) in [asyncapi/website](https://github.com/asyncapi/website)
+5. Commented on [#5052](https://github.com/asyncapi/website/issues/5052#issuecomment-3828587496) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
