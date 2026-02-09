@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Forked [anuragkaushik-glitch/jest-workshop](https://github.com/anuragkaushik-glitch/jest-workshop)
-2. Reviewed [#5107](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
-3. Commented on PR [#5107](https://github.com/asyncapi/website/pull/5107#discussion_r2779305054) in [asyncapi/website](https://github.com/asyncapi/website)
-4. Opened issue [#5109](https://github.com/asyncapi/website/issues/5109) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Commented on [#4997](https://github.com/asyncapi/website/pull/4997#issuecomment-3865076066) in [asyncapi/website](https://github.com/asyncapi/website)
+1. Commented on [#4546](https://github.com/asyncapi/website/issues/4546#issuecomment-3872454142) in [asyncapi/website](https://github.com/asyncapi/website)
+2. Commented on [#4546](https://github.com/asyncapi/website/issues/4546#issuecomment-3872442665) in [asyncapi/website](https://github.com/asyncapi/website)
+3. Forked [anuragkaushik-glitch/jest-workshop](https://github.com/anuragkaushik-glitch/jest-workshop)
+4. Reviewed [#5107](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
+5. Commented on PR [#5107](https://github.com/asyncapi/website/pull/5107#discussion_r2779305054) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
