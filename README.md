@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Forked [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
-2. Commented on [#5140](https://github.com/asyncapi/website/issues/5140#issuecomment-3883401480) in [asyncapi/website](https://github.com/asyncapi/website)
-3. Commented on [#5109](https://github.com/asyncapi/website/issues/5109#issuecomment-3877958968) in [asyncapi/website](https://github.com/asyncapi/website)
-4. Commented on [#5125](https://github.com/asyncapi/website/issues/5125#issuecomment-3876747872) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Commented on [#4546](https://github.com/asyncapi/website/issues/4546#issuecomment-3872454142) in [asyncapi/website](https://github.com/asyncapi/website)
+1. Commented on [#5088](https://github.com/asyncapi/website/issues/5088#issuecomment-3901686633) in [asyncapi/website](https://github.com/asyncapi/website)
+2. Commented on [#5088](https://github.com/asyncapi/website/issues/5088#issuecomment-3901665718) in [asyncapi/website](https://github.com/asyncapi/website)
+3. Commented on [#5140](https://github.com/asyncapi/website/issues/5140#issuecomment-3901559219) in [asyncapi/website](https://github.com/asyncapi/website)
+4. Commented on [#5148](https://github.com/asyncapi/website/issues/5148#issuecomment-3901547030) in [asyncapi/website](https://github.com/asyncapi/website)
+5. Commented on [#5151](https://github.com/asyncapi/website/issues/5151#issuecomment-3901533990) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
