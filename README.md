@@ -60,7 +60,7 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-0D1117?style=for-the-badge&logo=oauth&logoColor=EB5424)
+
 
 </div>
 
