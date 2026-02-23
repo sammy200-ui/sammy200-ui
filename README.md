@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Merged PR [#6](undefined) in [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
-2. Opened PR [#6](undefined) in [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
-3. Merged PR [#5](undefined) in [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
-4. Unassigned PR [#5](undefined) in [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
-5. Opened PR [#5](undefined) in [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
+1. Merged PR [#10](undefined) in [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
+2. Opened PR [#10](undefined) in [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
+3. Merged PR [#6](undefined) in [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
+4. Opened PR [#6](undefined) in [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
+5. Merged PR [#5](undefined) in [IronwallxR5/SpecterScan](https://github.com/IronwallxR5/SpecterScan)
 <!--END_SECTION:activity-->
 
 ---
