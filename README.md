@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Opened issue [#200](https://github.com/m-lab/mlab-speedtest/issues/200) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
-2. Commented on [#188](https://github.com/m-lab/mlab-speedtest/issues/188#issuecomment-3981943614) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
-3. Opened issue [#188](https://github.com/m-lab/mlab-speedtest/issues/188) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
-4. Commented on [#5205](https://github.com/asyncapi/website/issues/5205#issuecomment-3974648867) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Commented on [#5205](https://github.com/asyncapi/website/issues/5205#issuecomment-3973885304) in [asyncapi/website](https://github.com/asyncapi/website)
+1. Opened PR [#207](undefined) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
+2. Commented on [#188](https://github.com/m-lab/mlab-speedtest/issues/188#issuecomment-3985084707) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
+3. Merged PR [#206](undefined) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
+4. Opened PR [#206](undefined) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
+5. Opened issue [#204](https://github.com/m-lab/mlab-speedtest/issues/204) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
 <!--END_SECTION:activity-->
 
 ---
