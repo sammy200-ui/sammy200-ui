@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Commented on [#207](https://github.com/m-lab/mlab-speedtest/pull/207#issuecomment-3996932915) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
-2. Commented on [#1354](https://github.com/hermetoproject/hermeto/pull/1354#issuecomment-3996852661) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
-3. Opened PR [#1354](undefined) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
-4. Forked [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
-5. Opened PR [#207](undefined) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
+1. Merged PR [#207](undefined) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
+2. Commented on [#207](https://github.com/m-lab/mlab-speedtest/pull/207#issuecomment-3996932915) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
+3. Commented on [#1354](https://github.com/hermetoproject/hermeto/pull/1354#issuecomment-3996852661) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
+4. Opened PR [#1354](undefined) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
+5. Forked [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
 <!--END_SECTION:activity-->
 
 ---
