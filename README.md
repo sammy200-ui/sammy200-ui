@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Commented on [#1354](https://github.com/hermetoproject/hermeto/pull/1354#issuecomment-4012342069) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
-2. Merged PR [#207](undefined) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
-3. Commented on [#207](https://github.com/m-lab/mlab-speedtest/pull/207#issuecomment-3996932915) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
-4. Commented on [#1354](https://github.com/hermetoproject/hermeto/pull/1354#issuecomment-3996852661) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
-5. Opened PR [#1354](undefined) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
+1. Commented on [#1370](https://github.com/hermetoproject/hermeto/pull/1370#issuecomment-4016888493) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
+2. Opened PR [#1370](undefined) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
+3. Commented on [#1354](https://github.com/hermetoproject/hermeto/pull/1354#issuecomment-4012342069) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
+4. Merged PR [#207](undefined) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
+5. Commented on [#207](https://github.com/m-lab/mlab-speedtest/pull/207#issuecomment-3996932915) in [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest)
 <!--END_SECTION:activity-->
 
 ---
