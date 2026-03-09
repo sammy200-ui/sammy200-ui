@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Merged PR [#1354](undefined) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
-2. Commented on [#4690](https://github.com/kubernetes-sigs/headlamp/issues/4690#issuecomment-4019344058) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-3. Commented on [#4842](https://github.com/kubernetes-sigs/headlamp/pull/4842#issuecomment-4019336420) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-4. Opened PR [#4842](undefined) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-5. Commented on [#4602](https://github.com/kubernetes-sigs/headlamp/issues/4602#issuecomment-4019144503) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+1. Commented on [#1370](https://github.com/hermetoproject/hermeto/pull/1370#issuecomment-4025087797) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
+2. Commented on [#1370](https://github.com/hermetoproject/hermeto/pull/1370#issuecomment-4025074682) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
+3. Merged PR [#1354](undefined) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
+4. Commented on [#4690](https://github.com/kubernetes-sigs/headlamp/issues/4690#issuecomment-4019344058) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+5. Commented on [#4842](https://github.com/kubernetes-sigs/headlamp/pull/4842#issuecomment-4019336420) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
 <!--END_SECTION:activity-->
 
 ---
