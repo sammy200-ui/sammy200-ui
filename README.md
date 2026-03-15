@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Commented on [#4602](https://github.com/kubernetes-sigs/headlamp/issues/4602#issuecomment-4060584196) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-2. Commented on [#4602](https://github.com/kubernetes-sigs/headlamp/issues/4602#issuecomment-4060583388) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-3. Commented on [#4687](https://github.com/kubernetes-sigs/headlamp/issues/4687#issuecomment-4060515806) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-4. Commented on [#4602](https://github.com/kubernetes-sigs/headlamp/issues/4602#issuecomment-4031951380) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-5. Commented on [#1370](https://github.com/hermetoproject/hermeto/pull/1370#issuecomment-4025087797) in [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto)
+1. Starred [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+2. Commented on [#4602](https://github.com/kubernetes-sigs/headlamp/issues/4602#issuecomment-4060584196) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+3. Commented on [#4602](https://github.com/kubernetes-sigs/headlamp/issues/4602#issuecomment-4060583388) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+4. Commented on [#4687](https://github.com/kubernetes-sigs/headlamp/issues/4687#issuecomment-4060515806) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+5. Commented on [#4602](https://github.com/kubernetes-sigs/headlamp/issues/4602#issuecomment-4031951380) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
 <!--END_SECTION:activity-->
 
 ---
