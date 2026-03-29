@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Commented on [#2970](https://github.com/asyncapi/community/issues/2970#issuecomment-4137282744) in [asyncapi/community](https://github.com/asyncapi/community)
-2. Commented on [#2970](https://github.com/asyncapi/community/issues/2970#issuecomment-4128372395) in [asyncapi/community](https://github.com/asyncapi/community)
-3. Commented on [#2970](https://github.com/asyncapi/community/issues/2970#issuecomment-4127306914) in [asyncapi/community](https://github.com/asyncapi/community)
-4. Forked [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-5. Commented on [#5205](https://github.com/asyncapi/website/issues/5205#issuecomment-4119653902) in [asyncapi/website](https://github.com/asyncapi/website)
+1. Starred [agentclash/agentclash](https://github.com/agentclash/agentclash)
+2. Commented on [#2970](https://github.com/asyncapi/community/issues/2970#issuecomment-4137282744) in [asyncapi/community](https://github.com/asyncapi/community)
+3. Commented on [#2970](https://github.com/asyncapi/community/issues/2970#issuecomment-4128372395) in [asyncapi/community](https://github.com/asyncapi/community)
+4. Commented on [#2970](https://github.com/asyncapi/community/issues/2970#issuecomment-4127306914) in [asyncapi/community](https://github.com/asyncapi/community)
+5. Forked [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 <!--END_SECTION:activity-->
 
 ---
