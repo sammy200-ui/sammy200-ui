@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Commented on [#5205](https://github.com/asyncapi/website/issues/5205#issuecomment-4192759509) in [asyncapi/website](https://github.com/asyncapi/website)
-2. Commented on [#5205](https://github.com/asyncapi/website/issues/5205#issuecomment-4187305309) in [asyncapi/website](https://github.com/asyncapi/website)
-3. Commented on [#4889](https://github.com/asyncapi/website/issues/4889#issuecomment-4187021753) in [asyncapi/website](https://github.com/asyncapi/website)
-4. Commented on [#5205](https://github.com/asyncapi/website/issues/5205#issuecomment-4187011749) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Commented on [#4842](https://github.com/kubernetes-sigs/headlamp/pull/4842#issuecomment-4184224340) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+1. Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+2. Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+3. Commented on [#5205](https://github.com/asyncapi/website/issues/5205#issuecomment-4192759509) in [asyncapi/website](https://github.com/asyncapi/website)
+4. Commented on [#5205](https://github.com/asyncapi/website/issues/5205#issuecomment-4187305309) in [asyncapi/website](https://github.com/asyncapi/website)
+5. Commented on [#4889](https://github.com/asyncapi/website/issues/4889#issuecomment-4187021753) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
