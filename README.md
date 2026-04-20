@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Forked [raghav581/api-testing-starter-repo](https://github.com/raghav581/api-testing-starter-repo)
-2. Opened PR [#5340](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
-3. Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-4. Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-5. Commented on [#5205](https://github.com/asyncapi/website/issues/5205#issuecomment-4192759509) in [asyncapi/website](https://github.com/asyncapi/website)
+1. Commented on [#5103](https://github.com/asyncapi/website/issues/5103#issuecomment-4283293167) in [asyncapi/website](https://github.com/asyncapi/website)
+2. Forked [raghav581/api-testing-starter-repo](https://github.com/raghav581/api-testing-starter-repo)
+3. Opened PR [#5340](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
+4. Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+5. Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
 
 ---
