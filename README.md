@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Forked [JACOBIAN01/github-actions-starter](https://github.com/JACOBIAN01/github-actions-starter)
-2. Commented on [#5103](https://github.com/asyncapi/website/issues/5103#issuecomment-4283293167) in [asyncapi/website](https://github.com/asyncapi/website)
-3. Forked [raghav581/api-testing-starter-repo](https://github.com/raghav581/api-testing-starter-repo)
-4. Opened PR [#5340](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+1. Commented on [#5253](https://github.com/asyncapi/website/pull/5253#issuecomment-4306735616) in [asyncapi/website](https://github.com/asyncapi/website)
+2. Commented on [#5253](https://github.com/asyncapi/website/pull/5253#issuecomment-4306641428) in [asyncapi/website](https://github.com/asyncapi/website)
+3. Commented on [#5253](https://github.com/asyncapi/website/pull/5253#issuecomment-4306446320) in [asyncapi/website](https://github.com/asyncapi/website)
+4. Forked [JACOBIAN01/github-actions-starter](https://github.com/JACOBIAN01/github-actions-starter)
+5. Commented on [#5103](https://github.com/asyncapi/website/issues/5103#issuecomment-4283293167) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
