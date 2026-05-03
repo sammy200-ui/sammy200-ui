@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Merged PR [#4842](undefined) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-2. Starred [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish)
-3. Commented on [#5253](https://github.com/asyncapi/website/pull/5253#issuecomment-4364470799) in [asyncapi/website](https://github.com/asyncapi/website)
-4. Commented on [#5103](https://github.com/asyncapi/website/issues/5103#issuecomment-4364469894) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Commented on [#5253](https://github.com/asyncapi/website/pull/5253#issuecomment-4364439841) in [asyncapi/website](https://github.com/asyncapi/website)
+1. Commented on [#5376](https://github.com/asyncapi/website/pull/5376#issuecomment-4365549802) in [asyncapi/website](https://github.com/asyncapi/website)
+2. Commented on [#5376](https://github.com/asyncapi/website/pull/5376#issuecomment-4365537237) in [asyncapi/website](https://github.com/asyncapi/website)
+3. Merged PR [#4842](undefined) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+4. Starred [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish)
+5. Commented on [#5253](https://github.com/asyncapi/website/pull/5253#issuecomment-4364470799) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
