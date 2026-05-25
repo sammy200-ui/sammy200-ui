@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Merged PR [#5467](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
-2. Commented on [#5467](https://github.com/asyncapi/website/pull/5467#issuecomment-4527999075) in [asyncapi/website](https://github.com/asyncapi/website)
-3. Commented on [#5467](https://github.com/asyncapi/website/pull/5467#issuecomment-4527998225) in [asyncapi/website](https://github.com/asyncapi/website)
-4. Merged PR [#5466](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Commented on [#5467](https://github.com/asyncapi/website/pull/5467#issuecomment-4527977900) in [asyncapi/website](https://github.com/asyncapi/website)
+1. Commented on [#5481](https://github.com/asyncapi/website/pull/5481#issuecomment-4533276339) in [asyncapi/website](https://github.com/asyncapi/website)
+2. Commented on [#5253](https://github.com/asyncapi/website/pull/5253#issuecomment-4533141759) in [asyncapi/website](https://github.com/asyncapi/website)
+3. Commented on [#5253](https://github.com/asyncapi/website/pull/5253#issuecomment-4533082846) in [asyncapi/website](https://github.com/asyncapi/website)
+4. Commented on [#5476](https://github.com/asyncapi/website/pull/5476#issuecomment-4532866937) in [asyncapi/website](https://github.com/asyncapi/website)
+5. Commented on [#5253](https://github.com/asyncapi/website/pull/5253#issuecomment-4532677110) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
