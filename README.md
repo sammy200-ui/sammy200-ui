@@ -20,7 +20,6 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 <!--START_SECTION:activity-->
 1. Opened PR [#5609](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
 2. Commented on [#4928](https://github.com/asyncapi/website/issues/4928#issuecomment-4648369990) in [asyncapi/website](https://github.com/asyncapi/website)
-3. Commented on [#4928](https://github.com/asyncapi/website/issues/4928#issuecomment-4641587104) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 ---
