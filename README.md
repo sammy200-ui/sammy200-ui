@@ -18,8 +18,7 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Commented on [#5609](https://github.com/asyncapi/website/pull/5609#issuecomment-4914011799) in [asyncapi/website](https://github.com/asyncapi/website)
-2. Closed PR [#5609](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
+1. No recent public activity
 <!--END_SECTION:activity-->
 
 ---
