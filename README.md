@@ -18,7 +18,7 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. No recent public activity
+1. Commented on [#1650](https://github.com/asheshgoplani/agent-deck/issues/1650#issuecomment-5618890148) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
 <!--END_SECTION:activity-->
 
 ---
