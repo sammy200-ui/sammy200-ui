@@ -18,8 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Starred [nyxsky404/vmup](https://github.com/nyxsky404/vmup)
-2. Commented on [#1650](https://github.com/asheshgoplani/agent-deck/issues/1650#issuecomment-5618890148) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
+1. Reviewed [#5769](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
+2. Commented on [#5769](https://github.com/asyncapi/website/pull/5769#issuecomment-5798043425) in [asyncapi/website](https://github.com/asyncapi/website)
+3. Reviewed [#5770](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
+4. Starred [nyxsky404/vmup](https://github.com/nyxsky404/vmup)
+5. Commented on [#1650](https://github.com/asheshgoplani/agent-deck/issues/1650#issuecomment-5618890148) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
 <!--END_SECTION:activity-->
 
 ---
