@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Forked [asyncapi/community](https://github.com/asyncapi/community)
-2. Commented on [#3639](https://github.com/asyncapi/community/issues/3639#issuecomment-5883121288) in [asyncapi/community](https://github.com/asyncapi/community)
-3. Commented on PR [#5773](https://github.com/asyncapi/website/pull/5773#discussion_r4093969628) in [asyncapi/website](https://github.com/asyncapi/website)
-4. Commented on [#4999](https://github.com/asyncapi/website/issues/4999#issuecomment-5814709973) in [asyncapi/website](https://github.com/asyncapi/website)
-5. Commented on [#5773](https://github.com/asyncapi/website/pull/5773#issuecomment-5814684514) in [asyncapi/website](https://github.com/asyncapi/website)
+1. Opened PR [#5790](undefined) in [asyncapi/website](https://github.com/asyncapi/website)
+2. Merged PR [#3640](undefined) in [asyncapi/community](https://github.com/asyncapi/community)
+3. Opened PR [#3640](undefined) in [asyncapi/community](https://github.com/asyncapi/community)
+4. Commented on [#5786](https://github.com/asyncapi/website/issues/5786#issuecomment-5884030565) in [asyncapi/website](https://github.com/asyncapi/website)
+5. Forked [asyncapi/community](https://github.com/asyncapi/community)
 <!--END_SECTION:activity-->
 
 ---
