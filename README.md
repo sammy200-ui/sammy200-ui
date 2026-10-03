@@ -18,11 +18,11 @@ I watch anime and read manga more than I’d like to admit — you can find me o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Merged PR [#1](undefined) in [sammy200-ui/website](https://github.com/sammy200-ui/website)
-2. Opened PR [#1](undefined) in [sammy200-ui/website](https://github.com/sammy200-ui/website)
-3. Opened PR [#1089](undefined) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)
-4. Commented on [#960](https://github.com/asyncapi/conference-website/issues/960#issuecomment-5931580588) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)
-5. Commented on [#884](https://github.com/asyncapi/conference-website/issues/884#issuecomment-5932019732) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)
+1. Commented on [#1090](https://github.com/asyncapi/conference-website/issues/1090#issuecomment-5966745113) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)
+2. Closed PR [#4](undefined) in [sammy200-ui/website](https://github.com/sammy200-ui/website)
+3. Closed PR [#8](undefined) in [sammy200-ui/website](https://github.com/sammy200-ui/website)
+4. Opened PR [#8](undefined) in [sammy200-ui/website](https://github.com/sammy200-ui/website)
+5. Closed PR [#7](undefined) in [sammy200-ui/website](https://github.com/sammy200-ui/website)
 <!--END_SECTION:activity-->
 
 ---
